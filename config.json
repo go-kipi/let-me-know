@@ -1,0 +1,9 @@
+{
+  "HTTP": {
+    "ListenAddress": "7777"
+  },
+  "Mongo": {
+    "url":"mongodb://root:developer2021!@localhost:27017/",
+    "db": "go-ordering"
+  }
+}
